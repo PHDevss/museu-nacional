@@ -1,6 +1,3 @@
-# museu-nacional
- Projeto do Curso Domine Web - Jorge Sant Ana
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/97169087/195075839-d7a5ed6d-dc79-4bb9-b504-382fd9a90f1f.png" width='100px' alt="App's logo"/>
 </p>
